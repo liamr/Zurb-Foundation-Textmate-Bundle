@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;a href="${1:#}" class="nice radius ${2:small} ${3:blue} button"&gt;${0:$TM_SELECTED_TEXT}&lt;/a&gt;</string>
+	<key>name</key>
+	<string>nice button</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>nicebtn</string>
+	<key>uuid</key>
+	<string>39A388F6-CA2F-404C-98B1-EB7909CBBCEE</string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Zurb Foundation</string>
+	<key>ordering</key>
+	<array>
+		<string>98359DA2-1C34-463B-88CE-5FE33F127343</string>
+		<string>72A229EC-D7F4-4EFE-8A88-B2E9FE596A2E</string>
+		<string>CC1325C3-5A2C-4811-B6AE-917C65AE24A2</string>
+		<string>AAE68CBD-D744-495A-866B-0CDC8B077BC7</string>
+		<string>FF6EE10D-F72C-41C5-92EB-A3B255B90C7D</string>
+		<string>79A40542-505A-45BD-81C3-27200E0031BA</string>
+		<string>C10138D3-9901-4B04-8855-8B6A12FDE225</string>
+		<string>31180636-3233-401B-A846-BB560B585C48</string>
+		<string>4319A53B-7C68-41BF-BF98-00849686D876</string>
+		<string>C8DA9BFB-78DD-4F18-820B-E11E26360C45</string>
+		<string>66AC657F-D005-4C77-9098-C531E5219450</string>
+		<string>6B30564F-4F9C-4AD2-80CA-145F76D6F7D9</string>
+		<string>490ECE6D-52CE-4F89-9E26-895F71CB9209</string>
+		<string>86EC6FA4-DBAC-45D8-B010-1D81922261ED</string>
+		<string>FD9DE365-C299-40D0-9761-374103178CB9</string>
+		<string>72EC9BB2-ABCA-407A-8110-53537ED91790</string>
+		<string>39A388F6-CA2F-404C-98B1-EB7909CBBCEE</string>
+	</array>
+	<key>uuid</key>
+	<string>79CC0D67-6BDC-44B9-8709-B82A2328D2A2</string>
+</dict>
+</plist>
