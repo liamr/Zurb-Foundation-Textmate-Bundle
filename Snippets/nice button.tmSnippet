@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>nice button</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html, source.php</string>
 	<key>tabTrigger</key>
 	<string>nicebtn</string>
 	<key>uuid</key>

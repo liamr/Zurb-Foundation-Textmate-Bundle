@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>row</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>text.html, source.php</string>
 	<key>tabTrigger</key>
 	<string>fr</string>
 	<key>uuid</key>
