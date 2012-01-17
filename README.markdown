@@ -2,6 +2,11 @@
 
 A set of snippets for Zurb's awesome responsive HTML framework. Going to add more, but there are a few snippets at the moment to make your day a little better.
 
+## Installing
+
+	cd ~/Library/Application\ Support/TextMate/Bundles/
+	git clone git://github.com/liamr/Zurb-Foundation-Textmate-Bundle.git Zurb\ Foundation.tmbundle
+
 ##Layout & Grid
 
 ### `fc` Creates a Container
@@ -53,4 +58,7 @@ A set of snippets for Zurb's awesome responsive HTML framework. Going to add mor
 ##More coming soon
 I want to add more as soon as possible, and also work this into a Sublime Text 2 bundle!
 If you have suggestions let me know!
+
+##Credit
+Cheers to Fred Oliveria - https://github.com/fredoliveira/textmate-960gs/blob/master/README.markdown - based mine off his 960.gs 
 
