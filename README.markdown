@@ -1,4 +1,56 @@
 # Textmate bundle for Zurb Foundation
 
-A set of snippets for Zurbs awesome responsive HTML framework. Going to add more, but there are a few at the moment.
+A set of snippets for Zurb's awesome responsive HTML framework. Going to add more, but there are a few snippets at the moment to make your day a little better.
+
+##Layout & Grid
+
+### `fc` Creates a Container
+
+    <div class="container" id="name">
+    	(cursor)	
+    </div>
+    
+### `fr` Creates a Row
+
+    <div class="row" id="name">
+    	(cursor)	
+    </div>
+    
+### `fcr` Creates a Container & Row
+
+    <div class="container" id="name">
+        <div class="row" id="name">
+    	    (cursor)	
+    	</div>
+    </div>
+    
+### `c1` - `c12` Creates columns based on the number ie:
+
+`c6` creates
+
+    <div class="six columns" id="name">
+        (cursor)
+    </div>
+    
+### `cc` Creates a basic column layout and lets you specify the number you want ie:
+
+    <div class="[one - tweleve] column[s]" id="name">
+        (cursor)
+    </div>
+    
+    
+
+##Buttons
+
+### `btn` Creates a basic button and lets you specify the options ()
+
+    <a href="#" class="[small, medium, large] [white, blue, red, black] button">(Cursor)</a>
+    
+### `nicebtn` Creates a nice button and lets you specify the options ()
+
+    <a href="#" class="nice radius [small, medium, large] [white, blue, red, black] button">(Cursor)</a>
+    
+##More coming soon
+I want to add more as soon as possible, and also work this into a Sublime Text 2 bundle!
+If you have suggestions let me know!
 
