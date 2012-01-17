@@ -47,11 +47,11 @@ A set of snippets for Zurb's awesome responsive HTML framework. Going to add mor
 
 ##Buttons
 
-### `btn` Creates a basic button and lets you specify the options ()
+### `btn` Creates a basic button and lets you specify the options
 
     <a href="#" class="[small, medium, large] [white, blue, red, black] button">(Cursor)</a>
     
-### `nicebtn` Creates a nice button and lets you specify the options ()
+### `nicebtn` Creates a nice button and lets you specify the options
 
     <a href="#" class="nice radius [small, medium, large] [white, blue, red, black] button">(Cursor)</a>
     
