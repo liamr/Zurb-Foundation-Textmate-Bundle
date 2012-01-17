@@ -60,5 +60,5 @@ I want to add more as soon as possible, and also work this into a Sublime Text 2
 If you have suggestions let me know!
 
 ##Credit
-Cheers to Fred Oliveria - https://github.com/fredoliveira/textmate-960gs/blob/master/README.markdown - based mine off his 960.gs 
+Cheers to Fred Oliveira - https://github.com/fredoliveira/textmate-960gs/blob/master/README.markdown - based mine off his 960.gs 
 
