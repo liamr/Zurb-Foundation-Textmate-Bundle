@@ -6,22 +6,27 @@ A set of snippets for Zurb's awesome responsive HTML framework. Going to add mor
 
 	cd ~/Library/Application\ Support/TextMate/Bundles/
 	git clone git://github.com/liamr/Zurb-Foundation-Textmate-Bundle.git Zurb\ Foundation.tmbundle
+	
+## Changelog
+
+###1.1
+All snippets now have 'zf' prepended to avoid conflict with other installed Bundles. Updated documentation to reflect.
 
 ##Layout & Grid
 
-### `fc` Creates a Container
+### `zfc` Creates a Container
 
     <div class="container" id="name">
     	(cursor)	
     </div>
     
-### `fr` Creates a Row
+### `zfr` Creates a Row
 
     <div class="row" id="name">
     	(cursor)	
     </div>
     
-### `fcr` Creates a Container & Row
+### `zfcr` Creates a Container & Row
 
     <div class="container" id="name">
         <div class="row" id="name">
@@ -29,15 +34,15 @@ A set of snippets for Zurb's awesome responsive HTML framework. Going to add mor
     	</div>
     </div>
     
-### `c1` - `c12` Creates columns based on the number ie:
+### `zfc1` - `zfc12` Creates columns based on the number ie:
 
-`c6` creates
+`zfc6` creates
 
     <div class="six columns" id="name">
         (cursor)
     </div>
     
-### `cc` Creates a basic column layout and lets you specify the number you want ie:
+### `zfcc` Creates a basic column layout and lets you specify the number you want ie:
 
     <div class="[one - tweleve] column[s]" id="name">
         (cursor)
@@ -47,11 +52,11 @@ A set of snippets for Zurb's awesome responsive HTML framework. Going to add mor
 
 ##Buttons
 
-### `btn` Creates a basic button and lets you specify the options
+### `zfbtn` Creates a basic button and lets you specify the options
 
     <a href="#" class="[small, medium, large] [white, blue, red, black] button">(Cursor)</a>
     
-### `nicebtn` Creates a nice button and lets you specify the options
+### `zfnbtn` Creates a nice button and lets you specify the options
 
     <a href="#" class="nice radius [small, medium, large] [white, blue, red, black] button">(Cursor)</a>
     
