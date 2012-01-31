@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html, source.php</string>
 	<key>tabTrigger</key>
-	<string>nicebtn</string>
+	<string>zfnbtn</string>
 	<key>uuid</key>
 	<string>39A388F6-CA2F-404C-98B1-EB7909CBBCEE</string>
 </dict>

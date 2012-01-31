@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>text.html, source.php</string>
 	<key>tabTrigger</key>
-	<string>c8</string>
+	<string>zfc8</string>
 	<key>uuid</key>
 	<string>66AC657F-D005-4C77-9098-C531E5219450</string>
 </dict>

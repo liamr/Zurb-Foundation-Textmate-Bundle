@@ -13,7 +13,7 @@
 	<key>scope</key>
 	<string>text.html, source.php</string>
 	<key>tabTrigger</key>
-	<string>fcr</string>
+	<string>zfcr</string>
 	<key>uuid</key>
 	<string>CC1325C3-5A2C-4811-B6AE-917C65AE24A2</string>
 </dict>
