@@ -15,7 +15,7 @@ All snippets now have 'zf' prepended to avoid conflict with other installed Bund
 
 ##Layout & Grid
 
-### 'zfpage' Creates a new Foundation HTML page
+### `zfpage` Creates a new Foundation HTML page
 
 ### `zfc` Creates a Container
 
