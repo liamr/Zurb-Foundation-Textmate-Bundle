@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<ul class="block-grid two-up">
+	<li>$0</li>
+</ul>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>zfblock2</tabTrigger>
+	<description>Zurb Foundation - ul Block Grid - Two up</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
