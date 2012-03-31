@@ -12,7 +12,10 @@ A set of snippets for Zurb's awesome responsive HTML framework. Going to add mor
 ###1.1
 All snippets now have 'zf' prepended to avoid conflict with other installed Bundles. Updated documentation to reflect.
 
+
 ##Layout & Grid
+
+### 'zfpage' Creates a new Foundation HTML page
 
 ### `zfc` Creates a Container
 
@@ -59,6 +62,10 @@ All snippets now have 'zf' prepended to avoid conflict with other installed Bund
 ### `zfnbtn` Creates a nice button and lets you specify the options
 
     <a href="#" class="nice radius [small, medium, large] [white, blue, red, black] button">(Cursor)</a>
+
+##Block Grids
+
+### Add tab triggers for block grids
     
 ##More coming soon
 I want to add more as soon as possible, and also work this into a Sublime Text 2 bundle!
@@ -67,3 +74,4 @@ If you have suggestions let me know!
 ##Credit
 Cheers to Fred Oliveira - https://github.com/fredoliveira/textmate-960gs/blob/master/README.markdown - based mine off his 960.gs 
 
+Forked from https://github.com/liamr/Zurb-Foundation-Textmate-Bundle
