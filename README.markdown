@@ -50,7 +50,22 @@ All snippets now have 'zf' prepended to avoid conflict with other installed Bund
     <div class="[one - tweleve] column[s]" id="name">
         (cursor)
     </div>
-    
+
+### `zf2col`,`zf3col`, `zf4col` create a 2, 3 or 4 column layout surrounded by a row and container:
+
+    <div class="container" id="#">
+        <div class="row" id="#">
+            
+            <div class="six columns" id="#">
+                
+            </div> <!-- End # -->
+
+
+            <div class="six columns" id="#">
+                
+            </div> <!-- End # -->
+        </div>
+    </div>
     
 
 ##Buttons
@@ -65,7 +80,11 @@ All snippets now have 'zf' prepended to avoid conflict with other installed Bund
 
 ##Block Grids
 
-### Add tab triggers for block grids
+### `zfblock2`, `zfblock3`, `zfblock4`, `zfblock5` create <ul> block grids that are 2, 3, 4 or 5 up:
+
+    <ul class="block-grid five-up">
+        <li></li>
+    </ul>
     
 ##More coming soon
 I want to add more as soon as possible, and also work this into a Sublime Text 2 bundle!
