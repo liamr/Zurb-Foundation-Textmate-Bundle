@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+<div class="container" id="${1:name}">
+	<div class="row" id="${2:name}">
+		
+		<div class="four columns" id="${3:name}">
+			
+		</div> <!-- End #${3:name} -->
+
+
+		<div class="four columns" id="${4:name}">
+			
+		</div> <!-- End #${4:name} -->
+
+		<div class="four columns" id="${5:name}">
+			
+		</div> <!-- End #${5:name} -->
+
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>zf3col</tabTrigger>
+	<description>Zurb 3 Column Layout</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
