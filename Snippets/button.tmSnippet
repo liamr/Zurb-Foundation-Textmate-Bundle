@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;a href="${1:#}" class="${2:small} ${3:blue} button"&gt;${0:$TM_SELECTED_TEXT}&lt;/a&gt;</string>
+	<string>&lt;a href="${1:#}" class="${2:small} ${3:blue} button ${4:nice} ${5:radius/round}"&gt;${0:$TM_SELECTED_TEXT}&lt;/a&gt;</string>
 	<key>name</key>
 	<string>button</string>
 	<key>scope</key>
