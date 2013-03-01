@@ -2,11 +2,11 @@
 	<content><![CDATA[
 <div class="row$1">
 	
-	<div class="large-six columns$2">
+	<div class="large-6 columns$2">
 		$0
 	</div> <!-- $2 -->
 
-	<div class="large-six columns$3">
+	<div class="large-6 columns$3">
 
 	</div> <!-- $3 -->
 

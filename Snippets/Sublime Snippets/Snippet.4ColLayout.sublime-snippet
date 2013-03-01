@@ -2,19 +2,19 @@
 	<content><![CDATA[
 <div class="row$1">
 	
-	<div class="large-three columns$2">
+	<div class="large-3 columns$2">
 		$0
 	</div> <!-- $2 -->
 
-	<div class="large-three columns$3">
+	<div class="large-3 columns$3">
 
 	</div> <!-- $3 -->
 
-	<div class="large-three columns$4">
+	<div class="large-3 columns$4">
 		
 	</div> <!-- $4 -->
 
-	<div class="large-three columns$5">
+	<div class="large-3 columns$5">
 		
 	</div> <!-- $5 -->
 
