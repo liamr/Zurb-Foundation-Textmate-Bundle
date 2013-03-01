@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+<a href="#" data-dropdown="${5:drop1}" class="button split">${1:Dropdown Button}</a><br>
+
+<ul id="${5:drop1}" class="f-dropdown">
+  <li><a href="#">${2:This is a link}</a></li>
+  <li><a href="#">${3:This is another}</a></li>
+  <li><a href="#">${4:Yet another}</a></li>$0
+</ul>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zfsplitbut</tabTrigger>
+  <description>Zurb Split Button</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<div class="row$1">
+  $0
+</div> <!-- $1 -->
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zfrow</tabTrigger>
+  <description>Zurb Row</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
