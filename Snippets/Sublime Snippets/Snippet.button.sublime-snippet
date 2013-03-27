@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<a href="${0:#}" class="button$2">${1:Default Button}</a>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zfbut</tabTrigger>
+  <description>Zurb Button</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

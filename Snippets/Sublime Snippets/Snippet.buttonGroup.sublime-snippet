@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+<ul class="button-group$1">
+  <li><a href="${6:#}" class="button ${2:small}">${3:Button 1}</a></li>
+  <li><a href="${7:#}" class="button ${2:small}">${4:Button 2}</a></li>
+  <li><a href="${8:#}" class="button ${2:small}">${5:Button 3}</a></li>$0
+</ul>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zfgroupbut</tabTrigger>
+  <description>Zurb Group Button</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
