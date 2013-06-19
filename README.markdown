@@ -1,4 +1,4 @@
-# Textmate bundle for Zurb Foundation
+# Textmate bundle for Zurb Foundation 4
 
 A set of snippets for Zurb's awesome responsive HTML framework. Going to add more, but there are a few snippets at the moment to make your day a little better.
 
@@ -12,6 +12,8 @@ A set of snippets for Zurb's awesome responsive HTML framework. Going to add mor
 ###1.1
 All snippets now have 'zf' prepended to avoid conflict with other installed Bundles. Updated documentation to reflect.
 
+###1.2
+Updated to work with Foundation 4 - thanks to [Kramsee](https://github.com/kramsee)
 
 ##Layout & Grid
 
@@ -47,7 +49,7 @@ All snippets now have 'zf' prepended to avoid conflict with other installed Bund
     
 ### `zfcc` Creates a basic column layout and lets you specify the number you want ie:
 
-    <div class="[one - tweleve] column[s]" id="name">
+    <div class="[one - twelve] column[s]" id="name">
         (cursor)
     </div>
 
@@ -92,5 +94,3 @@ If you have suggestions let me know!
 
 ##Credit
 Cheers to Fred Oliveira - https://github.com/fredoliveira/textmate-960gs/blob/master/README.markdown - based mine off his 960.gs 
-
-Forked from https://github.com/liamr/Zurb-Foundation-Textmate-Bundle
